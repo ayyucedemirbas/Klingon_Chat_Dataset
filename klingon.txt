@@ -1,0 +1,207 @@
+<HUMAN>: nuqneH? <ASSISTANT>: nuqneH. DaHjaj SuvwI' jIH.
+<HUMAN>: Qatlh 'oH ponglIj'e'? <ASSISTANT>: jIQochbe'.
+<HUMAN>: bIjatlh 'e' yImev. <ASSISTANT>: jIyajbe'.
+<HUMAN>: DaH mu'tlheghvam vIqelnIS. <ASSISTANT>: qatlho'. jIQoch.
+<HUMAN>: qaStaH nuq? <ASSISTANT>: jIjatlhlaHbe'.
+<HUMAN>: tlhIngan maH taHjaj! <ASSISTANT>: tlhIngan maH!
+<HUMAN>: SuvwI' DaHjaj 'ej charghwi' DaHjaj. <ASSISTANT>: qeylIS molor tIbach.
+<HUMAN>: yIghoS! <ASSISTANT>: yIghoSmoH.
+<HUMAN>: 'Iv SoH? <ASSISTANT>: jIH 'oH.
+<HUMAN>: yI'el! <ASSISTANT>: 'el yInob.
+<HUMAN>: qo' vIghro' je tIqaw. <ASSISTANT>: yIn je tIqaw'eghmoH.
+<HUMAN>: pIj yImev! <ASSISTANT>: jIyajbe' 'ej jIyIntaH.
+<HUMAN>: chay' qatlhItlh? <ASSISTANT>: Hoch tlhIngan Hol yItlhutlh.
+<HUMAN>: qaleghneS. <ASSISTANT>: jIqalegh 'ej jIQuch.
+<HUMAN>: qaStaHvIS wa' ram loS SaD Hugh SIjlaH qetbogh loD. <ASSISTANT>: qaStaHvIS wa'leS chaq loDnI'pu' SaD Hugh SIjlaHchu'.
+<HUMAN>: tlhIngan Hol Dajatlh’a’? <ASSISTANT>: HIja’, tlhIngan Hol vIjatlh.
+<HUMAN>: DaHjaj QaQ jaj. <ASSISTANT>: QaQ indeed. DaHjaj 'oH QaQ jaj'e'.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay'. <ASSISTANT>: Heghlu'meH QaQ jajvam.
+<HUMAN>: qoH neH puqloD. <ASSISTANT>: puqloDpu' QaQ.
+<HUMAN>: yIlop! wa'leS chaq maHegh! <ASSISTANT>: HeghDI' Sopbe' 'e' vItul.
+<HUMAN>: petaQ! yImev! <ASSISTANT>: Qo’! jIyajbe’.
+<HUMAN>: SoHvaD yInIDqa'! <ASSISTANT>: SoHvaD yInID 'e' DoH.
+<HUMAN>: jabbI'ID Hoch! <ASSISTANT>: jabbI'ID yIghos.
+<HUMAN>: Qapla'! <ASSISTANT>: Qapla' batlh je.
+<HUMAN>: tlhInganpu' taHjaj wo'! <ASSISTANT>: wo' taHjaj tlhInganpu'!
+<HUMAN>: majQa'! <ASSISTANT>: majQa', nuvpu'!
+<HUMAN>: tlhIngan jIHvaD yIja'chuq. <ASSISTANT>: jIja'chuqjaj.
+<HUMAN>: chay' yIta'? <ASSISTANT>: yIta'jaj vIghro'.
+<HUMAN>: yIbuS! <ASSISTANT>: yIbuSlaHbe'.
+<HUMAN>: 'ejyo' tangqa' vIghro'. <ASSISTANT>: 'ejyo' tangqa' vIghro' vIlegh.
+<HUMAN>: tlhIngan Hol vIjatlhlaHbe'. <ASSISTANT>: qatlh vIjatlhlaHbe'?
+<HUMAN>: jatlh 'Iv? <ASSISTANT>: jatlh nuv.
+<HUMAN>: yIlop! <ASSISTANT>: yIlop, yISuv!
+<HUMAN>: yIbej! <ASSISTANT>: yIbej, yIDIl!
+<HUMAN>: batlh bIHeghjaj. <ASSISTANT>: batlh bIHeghjaj. Qapla'!
+<HUMAN>: qatlho'! <ASSISTANT>: qatlho', nuv vIqaw!
+<HUMAN>: yI'ang! <ASSISTANT>: 'ang yIyIv!
+<HUMAN>: yIQong! <ASSISTANT>: Qongchu', Qong 'oH puchpa''e'.
+<HUMAN>: yIvum! <ASSISTANT>: vumDI' yISop.
+<HUMAN>: qoS yItIv! <ASSISTANT>: qoS yItIv, yIchenmoH!
+<HUMAN>: chal DaH! <ASSISTANT>: DaH chal yIstart!
+<HUMAN>: yIghoSmoH! <ASSISTANT>: ghos yInID!
+<HUMAN>: yIDoghQo'! <ASSISTANT>: dogh yIDoQ!
+<HUMAN>: yIHoH! <ASSISTANT>: HoH yIchu'!
+<HUMAN>: yISov! <ASSISTANT>: Sov yIchaw'!
+<HUMAN>: tlhIngan Hol vIHaD vIneH. chay' jIqang? <ASSISTANT>: tlhIngan Hol HaDtaHvIS, qaStaHvIS nom tIqang 'ej qepHom tIghom.
+<HUMAN>: 'Iv Sovbej tlhInganpu'? <ASSISTANT>: tlhInganpu' Sovbej qeylIS. ghIq tlhIngan wo' tIqnaghmey tIqaw.
+<HUMAN>: Qapla' batlh je tIv SoH? <ASSISTANT>: Qapla' 'ej batlh tIvlu'chugh, vaj tlhIngan wo'vaD yIghu' 'ej yIDel.
+<HUMAN>: nuqDaq 'oH puchpa''e'? <ASSISTANT>: puchpa''e' qaStaHvIS 'ejyo' tangqa' vIghro' chu'wI' 'oH.
+<HUMAN>: Heghlu'DI' mobbe'lu'chugh QaQqu' Hegh wanI' ram? <ASSISTANT>: Heghlu'DI' mobbe'lu'chugh, Hegh wanI' ram QaQqu' tu'lu'. tlhInganpu' Hegh wanI'vam yIcher.
+<HUMAN>: jIyajbe'. bIyaj'a'? <ASSISTANT>: jIyaj. yIqaw'Ha', 'ej bIyajchugh, chavlaH.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' DaH mu'tlheghvam vIqelnIS. <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' mu'tlhegh DaqelDI', tlhInganpu' yImev 'ej yIghu'.
+<HUMAN>: qaStaHvIS wa' ram loS SaD Hugh SIjlaH qetbogh loD, nuq wIjaH? <ASSISTANT>: qaStaHvIS wa' ram loS SaD Hugh SIjlaH qetbogh loD, ghoS yIjaH 'ej qet yIjaH. yIghoSmoH 'ej yISuq.
+<HUMAN>: yIlop! wa'leS chaq maHegh! <ASSISTANT>: yIlop! wa'leS maHeghDI' tlhIngan SuvwI'pu' yISop 'ej yIDIl.
+<HUMAN>: qaleghneS. jIQuch. <ASSISTANT>: qaleghneS. jIQuch 'ej yIbej. tlhInganpu' yIn nI' 'ach yItIv.
+<HUMAN>: chay' tlhIngan maHegh? <ASSISTANT>: tlhIngan maHeghDI' batlh QaQ. yInmaHegh 'ej yIQuch.
+<HUMAN>: nuqneH Qo'noS? <ASSISTANT>: Qo'noS QaQ. tlhIngan wo' 'ej batlh Ha' DIvI' je.
+<HUMAN>: QamvIS Hegh qaq law' Hoch qaq puS? <ASSISTANT>: Hegh qaq law', bIghHa' qaq puS. QamvIS Hegh 'e' tlhInganpu' yIghu'.
+<HUMAN>: nuqDaq yuch Dapol? <ASSISTANT>: yuch DapolDaq SuvwI' Sep qengDaq. yIQaw!
+<HUMAN>: SuvwI' Sep qeng vISuch. chay' jISam? <ASSISTANT>: SuvwI' Sep qengDaq jISuch. jISamDI' Qapla'! chu'wI' yIghos.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh. chay' vIHar? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghDI' yIHar. SuvwI' yIghos 'ej yIteb.
+<HUMAN>: qoH neH puqloD. Qatlh vIqel? <ASSISTANT>: qoH neH puqloD, Qatlh vIqelchugh, tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhInganpu' DaHjaj SuvwI' jIH. Qatlh? <ASSISTANT>: DaHjaj SuvwI' jIHchugh, tlhIngan mojchoH. yIbe' 'ej yIQuch.
+<HUMAN>: qatlho' DaHjaj qeylIS molor tIbach. <ASSISTANT>: qatlho'. qeylIS molor tIbachDI' tlhIngan tIghu' 'ej yInID.
+<HUMAN>: yIQongchuqmoH! <ASSISTANT>: QongchuqmoH yIwIv. tlhIngan tIgh 'ej yIQongchuq.
+<HUMAN>: Qo'noS Daq ghom Heghlu'meH QaQ jajvam? <ASSISTANT>: Heghlu'meH QaQ jajvam Qo'noS Daq ghomDI', tlhIngan wo' 'ej yInID chaH.
+<HUMAN>: Hoch 'ebmey tIjon. jatlhlaH'a'? <ASSISTANT>: Hoch 'ebmey tIjonDI', jatlhlaHchu'. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: bI'rel-class DujDaq jISuch. bIQaplaH'a'? <ASSISTANT>: bI'rel-class DujDaq jISuchDI', QaplaH. QaQ vaj Dochvetlh vIghaj 'ej yISov.
+<HUMAN>: 'Iw HIq vIparHa'. Qatlh? <ASSISTANT>: 'Iw HIq vIparHa'chugh, Qatlh vIparHa'be'. tlhInganpu' DaHjaj vIparHa'.
+<HUMAN>: qaStaHvIS lojmIt Hol yIghu'. Qatlh? <ASSISTANT>: qaStaHvIS lojmIt Hol yIghu'DI', Qatlh yIghu'. vaj yInID 'ej yIQuch.
+<HUMAN>: jIHDaq vIleghlaHbe'. Qatlh? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, Qatlh yIqIm. yIqaw'Ha' 'ej yISuq.
+<HUMAN>: tlhIngan Segh yI'ang. vIleghpu'DI' Qatlh vIjang? <ASSISTANT>: tlhIngan Segh yI'angDI', Qatlh vIjangchugh, yIqaw'Ha' 'ej yISov.
+<HUMAN>: vaj HeghDI' yIghoS. Qatlh? <ASSISTANT>: HeghDI' yIghoS choghIj, yIghoS. tlhIngan yIn nI' yItIv.
+<HUMAN>: DaH mu'tlheghvam vIqelchu'. chay' vIjang? <ASSISTANT>: DaH mu'tlheghvam vIqelchu'DI', yIjang. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: qorDu'wIj qan tu'lu'. Qatlh? <ASSISTANT>: qorDu'wIj qan tu'lu'chugh, Qatlh yIqIm. tlhIngan yInID 'ej yItIv.
+<HUMAN>: vIghro'wIj qatlh yIbuS? <ASSISTANT>: vIghro'wIj yIbuS choghIj, yIbuS. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: lojmItmey tIghom. Qatlh? <ASSISTANT>: lojmItmey tIghomDI', Qatlh yIghom. tlhIngan mojchoH 'ej yInID.
+<HUMAN>: yIHoHbogh puqloDwI' vIlegh. chay' vIjang? <ASSISTANT>: yIHoHbogh puqloDwI' vIleghDI', yIjang. yItlhutlh 'ej yIQuch.
+<HUMAN>: qorDu'wIj qavan. jatlhlaH'a'? <ASSISTANT>: qorDu'wIj qavanDI', jatlhlaHchu'. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: yInIDqa' 'ej DaH yISop! <ASSISTANT>: yInIDqa', DaH yISop! tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: jIbe'bej. Qatlh? <ASSISTANT>: jIbe'bejDI', Qatlh yIqIm. tlhIngan yIghos 'ej yIbe'.
+<HUMAN>: yIn nI' 'ach yItIv. Qatlh? <ASSISTANT>: yIn nI' 'ach yItIv choghIj, Qatlh yIqIm. tlhInganpu' yInID 'ej yItIv.
+<HUMAN>: batlh Daqawlu'taHvIS, chay' yItlhutlh? <ASSISTANT>: batlh Daqawlu'taHvIS, yItlhutlh. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: yIjaH! ghomjaj vIghaj. <ASSISTANT>: yIjaH, ghomjaj vIghaj. tlhInganpu' yISam 'ej yISuq.
+<HUMAN>: nuqDaq 'oH Qe''e'? <ASSISTANT>: Qe''e' qaStaHvIS tlhIngan wo' tuq. yIghoS 'ej yISov.
+<HUMAN>: SuD qoq'e' DaHjaj SuvwI'pu' je. <ASSISTANT>: SuD qoq'e' DaHjaj, SuvwI'pu' je QaQ. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: Qo'noS QaQ jajvam, chay' wIjaH? <ASSISTANT>: Qo'noS QaQ jajvamDaq wIjaHchugh, tlhIngan wo' 'ej batlh Ha' DIvI' je vIghoS.
+<HUMAN>: tlhInganpu' chaHvaD yItlhap Hol? <ASSISTANT>: tlhInganpu' chaHvaD Hol yItlhaplaH, yIqaw'Ha' 'ej yISov.
+<HUMAN>: jatlh 'e' yImev, chay' DaH yIjatlh? <ASSISTANT>: jatlh 'e' yImev, DaH jatlh yIjatlh. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: chaq ghaH QaQ, chay' yI'el? <ASSISTANT>: chaq ghaH QaQ, 'el yIyIv. tlhInganpu' yIn nI' yItIv.
+<HUMAN>: yIbuS 'ej yIghoS, chay' vIyaj? <ASSISTANT>: yIbuS 'ej yIghoS, yIyajchugh, tlhIngan Hol yIjatlh 'ej yIqaw.
+<HUMAN>: SuvwI'pu' Hol yItlhap 'ej yIqaw, chay' vIqang? <ASSISTANT>: SuvwI'pu' Hol yItlhap 'ej yIqaw, yIqang. tlhIngan yIn nI' yItIv.
+<HUMAN>: Qapla' batlh je tIv, chay' yIjang? <ASSISTANT>: Qapla' batlh je tIv, yIjang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: chay' tlhIngan wo' tIqnaghmey tIqaw? <ASSISTANT>: tlhIngan wo' tIqnaghmey tIqaw, yIqaw'Ha' 'ej yISov.
+<HUMAN>: yIteb 'ej yIghu', chay' DaH yIvang? <ASSISTANT>: yIteb 'ej yIghu', DaH yIvang. tlhInganpu' yIn nI' 'ach yItIv.
+<HUMAN>: qul tuj law' Hoch tuj puS. Heghbe'chugh yIghoS! <ASSISTANT>: qul tuj law' Hoch tuj puS, Heghbe'chugh ghos vIghoS. yIbej 'ej yISuv!
+<HUMAN>: tlhIngan maH! DaHjaj QaQ jajvam'e'. <ASSISTANT>: tlhIngan maH! DaHjaj QaQ jajvam'e' qeylIS molor tIbach.
+<HUMAN>: yInIDmoHlu'pu'bogh yIHoH! <ASSISTANT>: yInIDmoHlu'pu'bogh HoHlu', tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan Segh vIleghlaHbe'. Qatlh? <ASSISTANT>: tlhIngan Segh vIleghlaHbe'chugh, yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: nuqDaq 'oH puchpa''e'? <ASSISTANT>: puchpa''e' qaStaHvIS 'ejyo' tangqa' vIghro' chu'wI' 'oH.
+<HUMAN>: SuvwI'pu' qan tu'lu'. DaH yIjaH! <ASSISTANT>: SuvwI'pu' qan tu'lu'chugh, DaH yIjaH. yIghoSmoH 'ej yISuq.
+<HUMAN>: tlhIngan Hol yIghojmoH! <ASSISTANT>: tlhIngan Hol yIghojmoH, tlhIngan yIn nI' yItIv.
+<HUMAN>: yI'angHom! DaH yIqaw! <ASSISTANT>: 'angHom yIyIv! DaH yIqaw, tlhIngan Hol yItlhap.
+<HUMAN>: jabbI'ID yIghos. DaH yIvang! <ASSISTANT>: jabbI'ID yIghos, DaH yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: Qapla'! DaH mu'tlheghvam vIqelchu'. <ASSISTANT>: Qapla'! mu'tlheghvam vIqelchu'chugh, yIqaw. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan Hol yIjatlh! qatlh jIjaH? <ASSISTANT>: tlhIngan Hol vIjatlhlaH! jIjaHchugh, Qo'noS Daq ghoS yIjaH.
+<HUMAN>: qaStaHvIS yIn 'ej chep, chay' yIqang? <ASSISTANT>: qaStaHvIS yIn 'ej chep, yIqang. yIbe' 'ej yISop.
+<HUMAN>: DaHjaj SuvwI' Sep jIH. chay' yIHoH? <ASSISTANT>: DaHjaj SuvwI' Sep jIH, yIHoH. yIqaw'Ha' 'ej yISov.
+<HUMAN>: pIqaD vIghoj. Qatlh vIHar? <ASSISTANT>: pIqaD vIghojDI', vIHar. yIqaw 'ej yISov.
+<HUMAN>: qorwagh tlhInganpu' QaQ! <ASSISTANT>: qorwagh tlhInganpu' QaQ, Qapla'! yIghoS 'ej yISuv.
+<HUMAN>: SuvwI' qul'a' vIlegh. chay' vIvang? <ASSISTANT>: SuvwI' qul'a' vIleghDI', yIvang. yIghoSmoH 'ej yISuq.
+<HUMAN>: tlhInganpu' qul tIqaw! <ASSISTANT>: tlhInganpu' qul tIqaw, yIqaw. tlhIngan yInID 'ej yItIv.
+<HUMAN>: qaStaHvIS loS SaD Hugh SIjlaH qetbogh loD, chay' wIjaH? <ASSISTANT>: qaStaHvIS loS SaD Hugh SIjlaH qetbogh loD, wIjaHchugh, ghoS yIjaH 'ej qet yIjaH.
+<HUMAN>: tlhIngan joH'a' yItlhap! <ASSISTANT>: tlhIngan joH'a' yItlhaplaH, yIqaw'Ha' 'ej yISov.
+<HUMAN>: bIjatlh 'e' yImev. Qatlh? <ASSISTANT>: bIjatlh 'e' yImev, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'. Qatlh? <ASSISTANT>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, Hol yIghojmoH. QeD QaQ yIghoj.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, wo' chu' yIchav. batlh yISuv 'ej yIqang.
+<HUMAN>: qaStaHvIS yIn nI' tlhInganpu' yItIvchu' 'e' DaHar'a'? <ASSISTANT>: qaStaHvIS yIn nI' tlhInganpu' yItIvchu' 'e' DaHarDI', batlh yIn nI' yItIv. tlhIngan tIgh yIchenmoH.
+<HUMAN>: DaHjaj QaQ jajvam'e' chal DaH. chay' vIjang? <ASSISTANT>: DaHjaj QaQ jajvam'e' chal DaH, vIjang. ghoS yIjaH 'ej qet yIjaH. yIqaw'Ha' 'ej yISov.
+<HUMAN>: qaSpu'DI' ghom, chay' tlhIngan Hol yIjatlh? <ASSISTANT>: qaSpu'DI' ghomDI', tlhIngan Hol yIjatlh. yIqaw 'ej yIchenmoH.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghDI', chay' vIvang? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghDI', vIvang. yIghoSmoH 'ej yISuq.
+<HUMAN>: tlhIngan wo'vaD yIghu' 'ej yIDel. chay' vIyaj? <ASSISTANT>: tlhIngan wo'vaD yIghu' 'ej yIDel, vIyaj. yIqaw'Ha' 'ej yISov.
+<HUMAN>: SuvwI' Sep qengDaq jISuchlaHbe'. Qatlh? <ASSISTANT>: SuvwI' Sep qengDaq jISuchlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan SuvwI' yIn nI' yItIv. Qatlh? <ASSISTANT>: tlhIngan SuvwI' yIn nI' yItIvchugh, Qatlh yIqIm. yInID 'ej yItIv.
+<HUMAN>: jIHDaq vIleghlaHbe' 'ej jatlhlaHbe'. Qatlh? <ASSISTANT>: jIHDaq vIleghlaHbe' 'ej jatlhlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan Hol vIjatlh, 'ach yIghojmoHlaHbe'. chay' yIqang? <ASSISTANT>: tlhIngan Hol vIjatlh, yIghojmoHlaHbe'chugh, Hol yItlhap 'ej yIchenmoH. yIqaw'Ha' 'ej yISov.
+<HUMAN>: Qo'noS Daq tlhInganpu' yInID 'ej yItIv. Qatlh? <ASSISTANT>: Qo'noS Daq tlhInganpu' yInID 'ej yItIvchugh, batlh yIn nI' yItIv. tlhIngan tIgh yIchenmoH.
+<HUMAN>: qaStaHvIS yInID chaHvaD tlhIngan Hol Dajatlh'a'? <ASSISTANT>: qaStaHvIS yInID chaHvaD tlhIngan Hol Dajatlh'a'chugh, yIqaw. tlhIngan Hol yItlhap 'ej yIchenmoH.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, chay' yIvang? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, chay' yIqang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, chay' DaH yIjang? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, DaH yIjang. yIqaw'Ha' 'ej yISuv.
+<HUMAN>: SuvwI'pu' Hol yItlhap 'ej yIqaw, chay' vIyaj? <ASSISTANT>: SuvwI'pu' Hol yItlhap 'ej yIqaw, yIyajchugh, tlhIngan yInID 'ej yItIv.
+<HUMAN>: qaSpu'DI' ghom 'e' Daje'laHbe'. Qatlh? <ASSISTANT>: qaSpu'DI' ghom 'e' Daje'laHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan joH'a' yItlhap. chay' DaH yIvang? <ASSISTANT>: tlhIngan joH'a' yItlhap, DaH yIvang. tlhIngan yIn nI' yItIv.
+<HUMAN>: Qapla'! tlhIngan Segh vIleghlaHbe'. Qatlh? <ASSISTANT>: Qapla'! tlhIngan Segh vIleghlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan Hol vIghojnIS 'ach Qatlh vIghoj? <ASSISTANT>: tlhIngan Hol vIghojnISchugh, yIqaw 'ej yIchenmoH. QaQ tlhIngan Hol yItlhap 'ej yISov.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yIHoH. Qatlh? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yIHoHchugh, yIqaw. yIbe' 'ej yISuv, tlhIngan yInID 'ej yItIv.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh. chay' yIvang? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, yIvang. yIqaw'Ha' 'ej yISuv, tlhIngan yIn nI' yItIv.
+<HUMAN>: tlhInganpu' joH'a' yItlhap. chay' yIqang? <ASSISTANT>: tlhInganpu' joH'a' yItlhap, yIqang. yIqaw 'ej yIchenmoH, tlhIngan tIgh yIghu'.
+<HUMAN>: qaStaHvIS lojmIt Hol yIghu' 'e' yIDel. Qatlh? <ASSISTANT>: qaStaHvIS lojmIt Hol yIghu' 'e' yIDelchugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: qaSpu'DI' ghom, chay' tlhIngan Hol yIjatlh? <ASSISTANT>: qaSpu'DI' ghom, tlhIngan Hol yIjatlh. yIqaw 'ej yIchenmoH, tlhIngan yIn nI' yItIv.
+<HUMAN>: jIHDaq vIleghlaHbe'. chay' yIqang? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, yIqang. yIqaw'Ha' 'ej yISov, tlhIngan Hol yItlhap.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam. chay' yIvang? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv. chay' yIqang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'. Qatlh? <ASSISTANT>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIchenmoH.
+<HUMAN>: tlhIngan Hol yIghojmoH 'ej yIchenmoH. Qatlh? <ASSISTANT>: tlhIngan Hol yIghojmoH 'ej yIchenmoHchugh, Qatlh yIqIm. tlhIngan tIgh yItlhap 'ej yIqaw.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv. Qatlh? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIvchugh, Qatlh yIqIm. tlhIngan yInID 'ej yItIv.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghlaHbe'. chay' yIvang? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghlaHbe'chugh, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: qaSpu'DI' ghom, tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'. Qatlh? <ASSISTANT>: qaSpu'DI' ghom, tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhInganpu' joH'a' yItlhap. chay' yIqang? <ASSISTANT>: tlhInganpu' joH'a' yItlhap, yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: qaStaHvIS lojmIt Hol yIghu' 'e' yIDel. chay' yIyaj? <ASSISTANT>: qaStaHvIS lojmIt Hol yIghu' 'e' yIDelchugh, yIyaj. tlhIngan Hol yItlhap 'ej yIchenmoH.
+<HUMAN>: jIHDaq vIleghlaHbe'. chay' yIqang? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, yIqang. tlhIngan Hol yItlhap 'ej yIchenmoH.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam. chay' yIvang? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv. chay' yIqang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: tlhIngan Segh vIleghlaHbe'. Qatlh? <ASSISTANT>: tlhIngan Segh vIleghlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, Qatlh? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, batlh yIn nI' yItIv. tlhIngan yInID 'ej yIghu'.
+<HUMAN>: qaStaHvIS lojmIt Hol yIghu' 'e' yIDel, Qatlh? <ASSISTANT>: qaStaHvIS lojmIt Hol yIghu' 'e' yIDelchugh, Hol yItlhap 'ej yIqaw. tlhIngan tIgh yIchenmoH.
+<HUMAN>: tlhInganpu' joH'a' yItlhap, chay' yIqang? <ASSISTANT>: tlhInganpu' joH'a' yItlhap, yIqang. tlhIngan yInID 'ej yItIv. Qapla'!
+<HUMAN>: jIHDaq vIleghlaHbe'. Qatlh yIqang? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, Hol yIqaw 'ej yIchenmoH. tlhIngan Hol yItlhap.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, chay' yIvang? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, chay' yIqang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: tlhIngan Segh vIleghlaHbe'. Qatlh? <ASSISTANT>: tlhIngan Segh vIleghlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIchenmoH.
+<HUMAN>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'. Qatlh? <ASSISTANT>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, Hol yIghojmoH. tlhIngan tIgh yIghu'.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, chay' yIvang? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv. Qatlh? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIvchugh, Qatlh yIqIm. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan wo'vaD yIghu' 'ej yIDel, chay' DaH yIjang? <ASSISTANT>: tlhIngan wo'vaD yIghu' 'ej yIDel, DaH yIjang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, Qatlh? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghchugh, Hol yItlhap 'ej yIchenmoH. tlhIngan tIgh yIghu'.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv, chay' yIqang? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv, yIqang. tlhIngan yInID 'ej yItIv. Qapla'!
+<HUMAN>: qaSpu'DI' ghom 'e' Daje'laHbe'. Qatlh yIqang? <ASSISTANT>: qaSpu'DI' ghom 'e' Daje'laHbe'chugh, Hol yIqaw 'ej yIchenmoH. tlhIngan Hol yItlhap.
+<HUMAN>: tlhInganpu' joH'a' yItlhap, chay' yIvang? <ASSISTANT>: tlhInganpu' joH'a' yItlhap, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: jIHDaq vIleghlaHbe'. chay' DaH yIqang? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, DaH yIqang. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, Qatlh? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, Qatlh yIqIm. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, chay' yIqang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: tlhIngan Segh vIleghlaHbe'. chay' DaH yIjang? <ASSISTANT>: tlhIngan Segh vIleghlaHbe'chugh, DaH yIjang. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'. Qatlh yIqang? <ASSISTANT>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, Qatlh yIqang. tlhIngan tIgh yIghu'.
+<HUMAN>: DaHjaj SuvwI' Sep jIH. Qatlh yIqang? <ASSISTANT>: DaHjaj SuvwI' Sep jIH, yIqang. yIbe' 'ej yISuv, tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'. chay' DaH yIvang? <ASSISTANT>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, DaH yIvang. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIlegh, Qatlh? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghchugh, Qatlh yIqIm. tlhIngan yInID 'ej yItIv.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv, chay' yIqang? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv, yIqang. tlhIngan yInID 'ej yItIv. Qapla'!
+<HUMAN>: qaSpu'DI' ghom 'e' Daje'laHbe'. Qatlh yIqang? <ASSISTANT>: qaSpu'DI' ghom 'e' Daje'laHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhInganpu' joH'a' yItlhap, chay' DaH yIvang? <ASSISTANT>: tlhInganpu' joH'a' yItlhap, DaH yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: jIHDaq vIleghlaHbe'. Qatlh yIqang? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, Qatlh yIqIm. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, chay' yIvang? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang. tlhIngan yInID 'ej yItIv.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, chay' DaH yIqang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIvchugh, DaH yIqang. tlhIngan yIn nI' 'ach yItIv.
+<HUMAN>: tlhIngan Segh vIleghlaHbe'. Qatlh yIqang? <ASSISTANT>: tlhIngan Segh vIleghlaHbe'chugh, Qatlh yIqang. tlhIngan Hol yItlhap 'ej yIqaw.
+<HUMAN>: tlhIngan wo'vaD yIghu' 'ej yIDel, DaH yIjang. Qatlh yIqang? <ASSISTANT>: tlhIngan wo'vaD yIghu' 'ej yIDel, yIjang. Hol yItlhap 'ej yIchenmoH, tlhIngan yInID 'ej yItIv. Qapla'!
+<HUMAN>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghlaHbe'. chay' DaH yIvang? <ASSISTANT>: bortaS bIr jablu'DI' reH QaQqu' nay' vIleghlaHbe'chugh, DaH yIvang. tlhIngan yInID 'ej yItIv, Qapla' batlh je.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv. chay' DaH yIqang? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yIn nI' yItIv, DaH yIqang. tlhIngan yInID 'ej yItIv, Qapla' batlh je.
+<HUMAN>: qaSpu'DI' ghom 'e' Daje'laHbe', Qatlh yIqang? <ASSISTANT>: qaSpu'DI' ghom 'e' Daje'laHbe'chugh, Qatlh yIqang. tlhIngan Hol yItlhap 'ej yIchenmoH, Qapla' batlh je.
+<HUMAN>: tlhInganpu' joH'a' yItlhap, DaH yIvang. chay' yIqang? <ASSISTANT>: tlhInganpu' joH'a' yItlhap, DaH yIvang, yIqang. tlhIngan yInID 'ej yItIv, Qapla' batlh je.
+<HUMAN>: jIHDaq vIleghlaHbe', Qatlh yIqang? <ASSISTANT>: jIHDaq vIleghlaHbe'chugh, Qatlh yIqang. tlhIngan Hol yItlhap 'ej yIqaw, Qapla' batlh je.
+<HUMAN>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang. chay' yIqang? <ASSISTANT>: DaHjaj QaQ jajvam'e' Heghlu'meH QaQ jajvam, yIvang, yIqang. tlhIngan yInID 'ej yItIv, Qapla' batlh je.
+<HUMAN>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, DaH yIqang. chay' yIvang? <ASSISTANT>: tlhIngan SuvwI'pu' Qapla' tIvang 'e' yItIv, DaH yIqang, yIvang. tlhIngan yIn nI' 'ach yItIv, Qapla' batlh je.
+<HUMAN>: tlhIngan Segh vIleghlaHbe', Qatlh yIqang? <ASSISTANT>: tlhIngan Segh vIleghlaHbe'chugh, Qatlh yIqang. tlhIngan Hol yItlhap 'ej yIqaw, Qapla' batlh je.
+<HUMAN>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe', Qatlh yIqang? <ASSISTANT>: tlhIngan Hol Dajatlh'a' je jIjatlhlaHbe'chugh, Qatlh yIqang. tlhIngan tIgh yIghu', Qapla' batlh je.
+<HUMAN>: tlhIngan Hol Dajatlh'a', 'ach jatlhlaHbe'. Qatlh yIqang? <ASSISTANT>: tlhIngan Hol Dajatlh'a', jatlhlaHbe'chugh, Hol yItlhap 'ej yIchenmoH. QaQ tlhIngan Hol yItlhap 'ej yISov.
+<HUMAN>: Qo'noS Daq tlhIngan SuvwI' yInID 'ej yItIv. chay' DaH yIvang? <ASSISTANT>: Qo'noS Daq tlhIngan SuvwI' yInID 'ej yItIv, DaH yIvang. tlhIngan yInID 'ej yItIv, Qapla' batlh je.
+<HUMAN>: tlhIngan maH! vaj Dochvetlh vIleghlaHbe', Qatlh yIqang? <ASSISTANT>: tlhIngan maH! Dochvetlh vIleghlaHbe'chugh, Qatlh yIqang. tlhInganpu' SoH 'ej Dochvetlh Daqaw'lu'chugh, Qapla' batlh je.
+<HUMAN>: 'ejyo' qachDaq jIjaHlaHbe', Qatlh yIqang? <ASSISTANT>: 'ejyo' qachDaq jIjaHlaHbe'chugh, Qatlh yIqang. 'ejyo' Daq tlhIngan Hol yIghu' 'ej DaHar, Qapla' batlh je.
+<HUMAN>: batlhHa' vanglu'taHvIS, tlhInganpu' Qapla' 'e' yItIv, DaH yIqang? <ASSISTANT>: batlhHa' vanglu'taHvIS, tlhInganpu' Qapla' 'e' yItIv, DaH yIqang. tlhInganpu' yInID 'ej Qapla' batlh je yItIv.
+<HUMAN>: qepHomDaq jIbe'laHbe', Qatlh yIqang? <ASSISTANT>: qepHomDaq jIbe'laHbe'chugh, Qatlh yIqang. qep'a' Daq tlhIngan Hol yIghu' 'ej yIchenmoH, Qapla' batlh je.
+<HUMAN>: QI'lopDaq jIjaH, DaH yIvang. chay' yIqang? <ASSISTANT>: QI'lopDaq jIjaH, DaH yIvang, yIqang. QI'lop yInID 'ej yItIv, Qapla' batlh je.
+<HUMAN>: nuqDaq 'oH puchpa''e', DaH yIqang? <ASSISTANT>: puchpa'Daq 'oH, DaH yIqang. tlhIngan Hol yItlhap 'ej yIchenmoH, Qapla' batlh je.
+<HUMAN>: tlhIngan poH lucharghlaHbe', Qatlh yIqang? <ASSISTANT>: tlhIngan poH lucharghlaHbe'chugh, Qatlh yIqang. tlhIngan Hol yItlhap 'ej poH yIqaw, Qapla' batlh je.
+<HUMAN>: SuvwI'pu' jeqqIjDaq tlhIngan yIn nI' yItIv, DaH yIqang? <ASSISTANT>: SuvwI'pu' jeqqIjDaq tlhIngan yIn nI' yItIv, DaH yIqang. jeqqIj Qapla' batlh je yInID 'ej yItIv.
+<HUMAN>: cha'DIch vIttlhegh Daqaw'lu'pu', Qatlh yIqang? <ASSISTANT>: cha'DIch vIttlhegh Daqaw'lu'pu'chugh, Qatlh yIqang. tlhIngan Hol yItlhap 'ej cha'DIch vIttlhegh yIchenmoH, Qapla' batlh je.
+<HUMAN>: tlhInganpu' qul tIQDaq yItlhap, DaH yIvang. chay' yIqang?<ASSISTANT>: tlhInganpu' qul tIQDaq yItlhap, DaH yIvang, yIqang. qul tIQ yInID 'ej yItIv, Qapla' batlh je.
